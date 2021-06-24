@@ -1,0 +1,12 @@
+Birds
+
+Cuckoo
+parrot
+Eagle
+
+Animals
+
+cat
+cow
+dog
+
